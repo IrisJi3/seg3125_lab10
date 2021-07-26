@@ -13,3 +13,6 @@ Define a new Goodbye intent for which you will define at least 4 training exampl
 
 ![image](assert/thanks.png)
 
+##Story
+
+![image](assert/train1.png)
