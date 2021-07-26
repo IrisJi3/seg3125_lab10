@@ -1,3 +1,8 @@
 # seg3125_lab10
 
-![image](assert/train1.png)
+![image](assert/greet.png)
+
+![image](assert/goodbye.png)
+
+![image](assert/thanks.png)
+
